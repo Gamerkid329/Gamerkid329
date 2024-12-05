@@ -17,6 +17,6 @@ I'm a passionate hacker and computer science enthusiast with a deep love for cod
 
 ## 🎮 Gaming
 
-# When I'm not coding, you can find me gaming with my team. We love to strategize, compete, and have fun together in various games. See [Games.text](https://github.com/Gamerkid329/Gamerkid329/blob/main/Games.text)
+# When I'm not coding, you can find me gaming with my team. We love to strategize, compete, and have fun together in various games. See [Games.text](https://github.com/Gamerkid329/Gamerkid329/blob/main/Games.text) See [Github.text](https://github.com/Gamerkid329/Gamerkid329/blob/main/Github.text) To see why Im here >:)
 
 Thanks for stopping by! 🚀
