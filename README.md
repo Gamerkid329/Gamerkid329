@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Lina Paxcer.]
+# 👋 Hi there! I'm Lina Paxcer
 
 I'm a passionate hacker and computer science enthusiast with a deep love for coding.
 ## 💻 About Me
@@ -17,6 +17,6 @@ I'm a passionate hacker and computer science enthusiast with a deep love for cod
 
 ## 🎮 Gaming
 
-# When I'm not coding, you can find me gaming with my team. We love to strategize, compete, and have fun together in various games. See [Games.text](https://www.github.com)
+# When I'm not coding, you can find me gaming with my team. We love to strategize, compete, and have fun together in various games. See [Games.text](https://github.com/Gamerkid329/Gamerkid329/blob/main/Games.text)
 
 Thanks for stopping by! 🚀
